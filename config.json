@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdync",
+        "uuid": 19482925,
+        "checksum": "krvnex"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
